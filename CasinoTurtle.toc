@@ -1,0 +1,18 @@
+## Interface: 11200
+## Title: CasinoTurtle
+## Notes: Registro de tiradas y participantes de Death Roll
+## Author: CasinoTurtle
+## Version: 0.1.0
+## SavedVariables: CasinoTurtleDB
+
+Core.lua
+Players.lua
+Session.lua
+Games\DeathRoll.lua
+GameRegistry.lua
+Games\DeathRollUI.lua
+History.lua
+Chat.lua
+Multiplayer.lua
+MultiplayerUI.lua
+UI.lua
